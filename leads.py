@@ -27,5 +27,17 @@ def get_mock_leads():
             "email": "marcus@revflow.com",
             "linkedin": "linkedin.com/in/marcuswebb",
             "company_description": "Revenue operations automation for mid-market sales teams"
+        },
+        {
+            "id": "003", 
+            "name": "Kabir Durve",
+            "title": "aashiq",
+            "company": "Saiyaara",
+            "industry": "B2B SaaS",
+            "employees": 5,
+            "location": "Pune, Maharashtra",
+            "email": "kabir@saiyaara.com",
+            "linkedin": "linkedin.com/in/kabir",
+            "company_description": "find people who are heart broken and give a second chance to live"
         }
     ]
